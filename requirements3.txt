@@ -29,7 +29,7 @@ itsdangerous==1.1.0       # via flask
 jinja2==2.10.1            # via flask
 jmespath==0.9.4           # via boto3, botocore
 kmsauth==0.5.0
-lxml==4.4.1               # via xmlsec
+lxml==4.9.1               # via xmlsec
 markupsafe==1.1.1         # via jinja2
 mccabe==0.6.1             # via flake8
 mock==2.0.0
