@@ -15,4 +15,4 @@ pyopenssl==19.0.0
 six==1.12.0               # via cryptography, pyopenssl
 
 pip==9.0.3
-setuptools==39.0.1
+setuptools==65.5.1
