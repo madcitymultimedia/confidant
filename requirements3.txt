@@ -10,7 +10,7 @@ cffi==1.12.3
 chardet==3.0.4            # via requests
 click==7.0                # via flask
 coverage==4.5.4
-cryptography==2.7
+cryptography==39.0.1
 defusedxml==0.6.0         # via python3-saml
 docutils==0.15.2          # via botocore
 entrypoints==0.3          # via flake8
